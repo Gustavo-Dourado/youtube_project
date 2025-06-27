@@ -15,8 +15,9 @@ Projeto Youtube Clone desenvolvido no curso Profissão Programador (Full-Stack)
 
 <p align="center">
 Preview Youtube Clone App </br>
-https://github.com/user-attachments/assets/29315525-ccc8-463f-9dad-055efc481426
 </p>
+
+https://github.com/user-attachments/assets/29315525-ccc8-463f-9dad-055efc481426
 
 <p align="center">
   Projeto do youtube clone desenvolvido no curso full-stack <b>Profissão Programador</b>, com o professor Paulo Borges.
