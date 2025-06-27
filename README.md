@@ -27,10 +27,10 @@ https://github.com/user-attachments/assets/29315525-ccc8-463f-9dad-055efc481426
   Uma interface parecida com o YouTube, criada como um "clone", com algumas funções que imitam o site original. A página inicial tem a opção de login e mostra cards com vídeos e shorts, que podem ser filtrados por categoria. Há também uma área do canal do usuário, onde é possível adicionar cards com informações dos vídeos. Cada card mostra apenas a imagem, o título, a descrição, a data de publicação e o número de visualizações. 
 </p>
 
-<p>
+<p align="center">
   Há consumo de 2 api's neste projeto:   </br>  
     1. Api própria que contém as rotas para criação e login de usuários, bem como rotas para criação de vídeos dos usuários.   </br>
-    2. Api do youtube consumida dentro de rotas da primeira api, para pesquisa de vídeos por categoria ou por pesquisa de palavras, é necessário uma chave para acesso dessa api do youtube.
+    2. Api do youtube consumida dentro de rotas da primeira api, para filtrar vídeos por categoria ou pesquisar vídeos por nome.
 </p>
 
 ## :desktop_computer: Tecnologias 
